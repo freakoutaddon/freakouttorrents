@@ -9,48 +9,6 @@ para cuidar da menina. Porém, por ser um protótipo M3GAN ainda vem com erros d
 </item>
 
 <item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
-<title>NOME DO FILME</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>CAPA DO FILME</thumbnail>
-<info>DESCRIÇAO DO FILME</info>
-</item>
-
-<item>
 <title>Agatha 2022 Torrent Legendado</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1CF60C551CA230CA6BE840B6E429C451BC98E920&dn=Agatha.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://megafilmestorrenthd.com.br/wp-content/uploads/2022/12/bhvZ28p1Zmw4MiMJ4xz8xbdAf5T-scaled.jpg.webp</thumbnail>
